@@ -1,4 +1,4 @@
-from pystan import StanModel
+from stan import model as StanModel
 import pickle
 import pkg_resources
 import os
